@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 10;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #AA00FF;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Add your remaining CSS styles here */
